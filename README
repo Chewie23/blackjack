@@ -2,3 +2,13 @@ Making a BlackJack game in Go
 
 BlackJack rules
 https://www.blackjack.org/blackjack-rules/
+
+The basics:
+1) Card class
+2) Deck class
+3) Player class
+4) Dealer class
+
+Nice to haves:
+1) GUI
+2) Database to keep user info/account?
